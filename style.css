@@ -1,0 +1,114 @@
+#mcnewstitle {
+  text-align: center;
+}
+
+#jornal_img {
+  width: 100%;
+  height: 100%;
+}
+
+#jornal_title {
+  position: absolute;
+  top: 40%;
+  right: 30%;
+  z-index: 10;
+  color: aliceblue;
+  padding: 7px;
+  border-width: 2px;
+  border-style: double;
+  background-color: rgba(59, 169, 184, 0.589);
+  font-size: 50px;
+
+}
+
+#news_mc {
+  cursor: pointer;
+  border-width: 2px;
+  border-color: green;
+  border-style: solid;
+  font-size: 20px;
+}
+#news_mc_d {
+  cursor: pointer;
+  border-width: 2px;
+  border-color:darkred;
+  border-style: solid;
+  font-size: 20px;
+}
+#news_mc_l {
+  cursor: pointer;
+  border-width: 2px;
+  border-color:aquamarine;
+  border-style: solid;
+  font-size: 20px;
+}
+
+.minecrafts {
+  list-style: none;
+  position: fixed;
+  top: 2%;
+  right: 5%;
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.411);
+  border-color: rgba(240, 248, 255, 0.952);
+  border-width: 1px;
+  border-style: solid;
+  font-family: cursive;
+}
+#mc{
+  float: left;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 9px;
+  padding-right: 9px;
+  color:chartreuse !important;
+  
+}
+#mc_d{
+  float: left;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 9px;
+  padding-right: 9px;
+  color:orangered !important;
+ 
+}
+#mc_l{
+  float: left;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 9px;
+  padding-right: 9px;
+  color: cyan !important;
+ 
+}
+.jornal_minecraft_default{
+  padding: 10px;
+  border-style: dashed;
+  border-width: 2px;
+  border-color: darkolivegreen;
+  text-align: justify;
+}
+a {
+  text-decoration: none;
+  color: chartreuse;
+}
+#the_legend_realese{
+  color:cyan;
+  text-decoration:underline;
+  text-decoration-color: black;
+}
+.jornal_minecraft_dungeons{
+  padding: 10px;
+  border-style: dashed;
+  border-width: 2px;
+  border-color:crimson;
+  text-align: justify;
+}
+.jornal_minecraft_legends{
+  padding: 10px;
+  border-style: dashed;
+  border-width: 2px;
+  border-color:cornflowerblue;
+  text-align: justify;
+}
